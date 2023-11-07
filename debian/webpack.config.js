@@ -1,7 +1,7 @@
 'use strict';
 var path = require('path');
 var config = {
-  target: 'node',
+  target: 'web',
   resolve: {
   	modules: ['/usr/share/nodejs'],
   },

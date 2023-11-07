@@ -1,3 +1,35 @@
+node-es6-promise (4.2.8-12) unstable; urgency=medium
+
+  * Team upload
+  * Declare compliance with policy 4.6.1
+  * Fix filenamemangle
+  * Fix build for webpack 5.75
+
+ -- Yadd <yadd@debian.org>  Wed, 23 Nov 2022 14:27:17 +0100
+
+node-es6-promise (4.2.8-11) unstable; urgency=medium
+
+  * Mark the node-es6-promise dep on nodejs with :any.
+
+ -- Julien Puydt <jpuydt@debian.org>  Fri, 22 Apr 2022 13:10:39 +0200
+
+node-es6-promise (4.2.8-10) unstable; urgency=medium
+
+  * Team upload.
+
+  [ Caleb Adepitan ]
+  * Update deprecated options to be compatible with webpack 5
+
+ -- Jonas Smedegaard <dr@jones.dk>  Sat, 26 Feb 2022 09:56:26 +0100
+
+node-es6-promise (4.2.8-9) unstable; urgency=medium
+
+  * team upload
+
+  * use and build-depend on terser (not uglifyjs.terser)
+
+ -- Jonas Smedegaard <dr@jones.dk>  Thu, 02 Dec 2021 20:30:00 +0100
+
 node-es6-promise (4.2.8-8) unstable; urgency=medium
 
   [ lintian-brush ]
